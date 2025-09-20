@@ -1,0 +1,13 @@
+transformers
+torch
+pandas
+scikit-learn
+numpy
+rouge_score
+torchvision
+wandb
+pillow
+kagglehub
+sentencepiece
+pytest-cov
+pytest
